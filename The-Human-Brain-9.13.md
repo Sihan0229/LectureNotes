@@ -21,3 +21,13 @@ Lectures link: [The-Human-Brain-9.13](https://www.bilibili.com/video/BV1te4y1t7y
 **Amygdala 杏仁核**
 - 负责情感反应和恐惧的识别
 - SM患者没有Amygdala，导致缺乏恐惧感。
+
+**灰质（Grey Matter）**
+- 由cell bodies组成，是信息处理的主要区域。
+
+**白质（White Matter）**
+- 主要由髓鞘化的轴突（myelinated axons）组成，负责不同区域之间的信号传输。
+- The specific connections of each region may serve as a
+“fingerprint” of that region across species, enabling us to
+discover interspecies homologies
+- Disruptions of white matter may be key to clinical disorders
