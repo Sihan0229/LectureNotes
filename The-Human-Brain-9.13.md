@@ -1,6 +1,7 @@
 Lectures link: [The-Human-Brain-9.13](https://www.bilibili.com/video/BV1te4y1t7yL/?spm_id_from=333.1387.favlist.content.click&vd_source=3eea97cca726b52e31eba5c50a723cb0)
 
-# 01 Introduction to the Human Brain
+# Lecture 1: Introduction
+
 ## Four Major Components of the Brain
 - Brain stem & cerebellum 脑干和小脑
 - Limbic system
@@ -31,3 +32,5 @@ Lectures link: [The-Human-Brain-9.13](https://www.bilibili.com/video/BV1te4y1t7y
 “fingerprint” of that region across species, enabling us to
 discover interspecies homologies
 - Disruptions of white matter may be key to clinical disorders
+
+# Lecture 2: Neuroanatomy
