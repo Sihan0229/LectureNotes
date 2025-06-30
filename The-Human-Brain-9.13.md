@@ -37,3 +37,13 @@ discover interspecies homologies
 **受体场 Receptive Field**
 - a region of visual space that drives a specific neuron in the cortex more than others.
 - 通过固定猴子的眼睛并刺激不同区域，发现某些神经元对特定区域的刺激反应最强。不同神经元的受体场与空间位置、形状、颜色、运动方向等其他属性相关。
+
+**Retinotopic Maps 视网膜映射**
+- 在视觉皮层中临近的区域，会对应视网膜中临近的区域。
+Adjacent parts of the
+visual scene are mapped to
+adjacent parts of the cortex
+
+**a cortical area**
+- 一个视觉皮层区域的定义标准包括功能特征、与其他区域的连接性以及细胞结构（cytoarchitecture）的不同。
+- 以视觉运动区MT为例，Single neurons in MT are tuned to the direction of motion. Nearby neurons within MT have similar directional selectivity.
