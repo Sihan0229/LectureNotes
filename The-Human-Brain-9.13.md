@@ -34,3 +34,6 @@ discover interspecies homologies
 - Disruptions of white matter may be key to clinical disorders
 
 # Lecture 2: Neuroanatomy
+**受体场 Receptive Field**
+- a region of visual space that drives a specific neuron in the cortex more than others.
+- 通过固定猴子的眼睛并刺激不同区域，发现某些神经元对特定区域的刺激反应最强。不同神经元的受体场与空间位置、形状、颜色、运动方向等其他属性相关。
