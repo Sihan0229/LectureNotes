@@ -2,14 +2,14 @@ Lectures link: [The-Human-Brain-9.13](https://www.bilibili.com/video/BV1te4y1t7y
 
 # Lecture 1: Introduction
 
-## Four Major Components of the Brain
+### Four Major Components of the Brain
 - Brain stem & cerebellum 脑干和小脑
 - Limbic system
 (subcortical regions)
 - White Matter
 - Cerebral cortex (outer sheet)
 
-## Important Subcortical Bits
+### Important Subcortical Bits
 **Thalamus 丘脑**
 - 感觉中继站（relay station），起信息传递作用，多数感觉信息传入皮层前经此。嗅觉（olfaction）例外，不经过丘脑。
 - 视觉中继：Lateral Geniculate Nucleus（LGN），负责视网膜（retina）到皮层视觉信息传递，从retinal ganglion cells接受信息，通过optic radiations传输到primary visual cortex (V1)。LGN主要位于thalamus的posteroventral region。 
@@ -34,14 +34,14 @@ discover interspecies homologies
 - Disruptions of white matter may be key to clinical disorders
 
 # Lecture 2: Neuroanatomy
-## 受体场 Receptive Field
+### 受体场 Receptive Field
 - a region of visual space that drives a specific neuron in the cortex more than others.
 - 通过固定猴子的眼睛并刺激不同区域，发现某些神经元对特定区域的刺激反应最强。不同神经元的受体场与空间位置、形状、颜色、运动方向等其他属性相关。
 
-## Retinotopic Maps 视网膜映射
+### Retinotopic Maps 视网膜映射
 - 在视觉皮层中临近的区域，会对应视网膜中临近的区域。
 
-## 视觉运动区 Visual motion area MT
+### 视觉运动区 Visual motion area MT
 Single neurons in MT are tuned to the direction of motion. Nearby neurons within MT have similar directional selectivity.
 
 - **Microstimulation**：在MT区域进行微刺激，刺激结果影响运动感知
