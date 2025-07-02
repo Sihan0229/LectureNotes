@@ -61,3 +61,16 @@ oxidase）染色显示出较高的代谢活动，以表明MT在运动感知中�
 #### Brodmann区域
 
 - **Korbinian Brodmann（1868-1918）**：根据皮层的细胞结构，Brodmann识别出52个不同的大脑区域，这些区域被视为大脑的“器官organs”。
+
+# Lecture 4-5: Cognitive Neuroscience Methods
+# Lecture 6: Experimental Design
+# Lecture 7: Category Selectivity, Controversies, and MVPA
+# Lecture 8-9: Navigation
+# Lecture 10-11: Development, Nature & Nurture
+# Lecture 13: Number
+# Lecture 15: Hearing and Speech
+# Lecture 16: Music
+# Lecture 18: Language
+# Lecture 20: Mentalizing and Theory of Mind
+# Lecture 21: Brain Networks
+# Lecture 24: Attention & Awareness
