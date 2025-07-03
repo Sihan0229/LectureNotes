@@ -63,6 +63,15 @@ oxidase）染色显示出较高的代谢活动，以表明MT在运动感知中�
 - **Korbinian Brodmann（1868-1918）**：根据皮层的细胞结构，Brodmann识别出52个不同的大脑区域，这些区域被视为大脑的“器官organs”。
 
 # Lecture 4-5: Cognitive Neuroscience Methods
+
+### Marr Computational Theory Level of Analysis （Marr计算理论分析层次）
+
+### Methods in Cognitive Neuroscience Methods, & the Questions they answer, applied to face perception
+
+#### Computational theory
+#### Behavior
+#### fMRI
+
 # Lecture 6: Experimental Design
 # Lecture 7: Category Selectivity, Controversies, and MVPA
 # Lecture 8-9: Navigation
