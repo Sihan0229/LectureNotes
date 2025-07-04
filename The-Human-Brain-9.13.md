@@ -67,7 +67,21 @@ oxidase）染色显示出较高的代谢活动，以表明MT在运动感知中�
 ### Marr Computational Theory Level of Analysis （Marr计算理论分析层次）
 
 Case study: Color Vision
+1. **计算理论 (Computational Theory)**  
+   - **目标**：理解系统做什么，为什么做。
+   - **问题**：提取什么信息？为什么？推理是否存在不适定（ill-posed）问题？
+   - **色觉例子**：从光（L）中推断反射率（R），但反射率（R）是未知的，推理过程是不适定的。
 
+2. **算法/表示 (Algorithm/Representation)**  
+   - **目标**：理解系统如何实现任务，使用什么算法或表示。
+   - **问题**：如何完成任务？使用了什么假设？怎样的计算模型？
+   - **色觉例子**：如何构建算法从光（L）推断反射率（R）。
+
+3. **硬件实现 (Hardware Implementation)**  
+   - **目标**：理解系统如何通过硬件实现计算。
+   - **问题**：如何在硬件上实现这些计算？
+   - **色觉例子**：大脑如何通过神经网络实现这些推理任务？
+   
 ### Methods in Cognitive Neuroscience Methods, & the Questions they answer, applied to face perception
 
 #### Computational theory
