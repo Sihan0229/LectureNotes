@@ -66,6 +66,8 @@ oxidase）染色显示出较高的代谢活动，以表明MT在运动感知中�
 
 ### Marr Computational Theory Level of Analysis （Marr计算理论分析层次）
 
+Case study: Color Vision
+
 ### Methods in Cognitive Neuroscience Methods, & the Questions they answer, applied to face perception
 
 #### Computational theory
