@@ -66,7 +66,20 @@ oxidase）染色显示出较高的代谢活动，以表明MT在运动感知中�
 
 Methods in Cognitive Neuroscience Methods, & the Questions they answer, applied to face perception
 
+这一章节以 face recognition 为例，通过六个问题的引导来探讨相关methods：
+
+1. What is the nature of the problem of face perception? (inputs, outputs, challenges). 面孔知觉问题的性质
+2. How does face recognition work in humans?
+what computations, what representations?
+is this answer different for face versus object reocognition? 人类是如何进行面部识别的？计算和表示方法是什么？和物体识别有什么区别？向
+3. Is face perception a distinct system from the rest of vision/cognition? 面部识别是否与其他视觉/认知系统不同，是一个独立的系统？
+4. How fast are faces detected and recognized? 面部检测与识别的速度？
+5. How is face recognition implement in individual neurons/circuits? 面孔识别是如何在个别神经元/神经回路中实现的？
+6. What is the causal role of each brain region in face recognition? 每个大脑区域在面孔识别中的因果作用是什么？
+
 ### Marr Computational Theory Level of Analysis （Marr计算理论分析层次）
+
+用于解决 **问题1：What is the nature of the problem of face erception?**
 
 Case study: Color Vision
 - **计算理论 (Computational Theory)**  
@@ -84,26 +97,50 @@ Case study: Color Vision
    - **问题**：如何在硬件上实现这些计算？
    - **色觉例子**：大脑如何通过神经网络实现这些推理任务？
 
-**major challenge**: huge variation across images of a single face
+**major challenge**: huge variation across images of a single face. 从而引出**问题2：How does face recognition work in humans?**，接下来引入Behavior解决问题2.
 
 ### Behavior: Strengths and Weakness of Behavioral Methods (low-tech)
 - Good for characterizing internal representations and dissociating distinct mental phenomena.
 - But no relationship to the brain. 
-- Only the final stage output instead of each stage in whole precessing. (solution: fMRI)
+- Only the final stage output instead of each stage in whole precessing. (解决方案：fMRI)
+
+这里Behavior和fMRI都在解答**问题3：Is face perception a distinct system from the rest of vision/cognition?**
 
 ### Functional Magnetic Resonance Imaging (fMRI)
 - 原理：**BOLD signal**（blood oxygenation level dependent）表示与血液氧合状态相关的变化。神经活动增加时，局部的血流增加超过了氧气使用的需求，这导致局部的氧气浓度下降，脱氧血红蛋白deO2Hb（deoxygenated hemoglobin）浓度降低。氧合血红蛋白（O2Hb）和去氧血红蛋白（deO2Hb）在磁共振成像中呈现不同的信号特性。deO2Hb是顺磁性的，使得MR信号强度增加。
 - Cannot measure absolute amounts of activity/metabolism, only differences between two conditions.
 - Physiological basis of the BOLD signal is unknown
-- fMRI suggests that distinct neural tissue is engaged in face vs object recognition.
-### ERPs
-### MEG
-### Intracranial recording
+- fMRI suggests that distinct neural tissue is engaged in face vs object recognition. 面部识别和物体识别使用的是不同的神经组织。
+- Can’t tell if activity measured plays a causal role in cognition/behavior!
+
+fMRI时间分辨率较慢，因此引入了EEG和ERPs来解决**问题4：How fast are faces detected and recognized?**，EEG能够提供快速的时间分辨率，但空间分辨率较差。
+
+### Event-Related Potentials (ERPs)
+- Face detection: ERP信号表明，在刺激呈现后170毫秒，大脑就开始对面孔产生特定的反应.
+- Face recognition: don’t yet know
+### Magnetoencephalography (MEG)
+- MEG primarily “sees” activity in brain’s folds (sulci), not bumps (gyri).
+
+### Intracranial recording 颅内记录
+- 同时具有high spatial and temporal resolution
+- Invasive
+- 无法确定测量的活动是否在认知/行为中起因果作用。
+
+为研究region X的作用，需要disrupt X，进而引入研究脑损伤患者的方法，用于解答**问题5：What is the causal role of each brain region in face recognition?**
+
 ### Patients with focal brain damage
-### TMS
-### Electrical stimulation of the brain
+- 患者missing FFA，能recognize objects但不能recognize faces。
+- 因此FFA is causally involved in face perception apparently not object perception
+
+**问题6：How is face recognition implement in individual neurons/circuits?**
 
 # Lecture 6: Experimental Design
+### TMS
+
+### Electrical stimulation of the brain
+
+
+
 # Lecture 7: Category Selectivity, Controversies, and MVPA
 # Lecture 8-9: Navigation
 # Lecture 10-11: Development, Nature & Nurture
