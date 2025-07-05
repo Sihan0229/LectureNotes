@@ -134,11 +134,18 @@ fMRI时间分辨率较慢，因此引入了EEG和ERPs来解决**问题4：How fa
 
 **问题6：How is face recognition implement in individual neurons/circuits?**
 
-# Lecture 6: Experimental Design
-### TMS
-
+### Transcranial magnetic stimulation (TMS) 经颅磁刺激
+- TMS induces a brief, strong, transient magnetic field over scalp. The only method that can disrupt specific brain regions in normal brains 唯一可以在正常人身上进行的非侵入式干扰方法。
+- 可以直接探讨因果作用而不仅仅是相关性
+- 空间分辨率低，机制不明确，只能作用于头皮表面的皮层，无法到达FFA
 ### Electrical stimulation of the brain
 
+# Lecture 6: Experimental Design
+Multifactor Experiments main effects and interactions
+- **Hypothesis**: The key idea you are testing in the experiment.
+- **Prediction**: The precise finding in your data that should be found if the hypothesis is true.
+- **Confound**: A difference between your conditions other than the one you are trying to manipulate, that hence provides an alternative account of your data.
+- **Contrast**: an activation is generally based on a contrast of two conditions, e.g. finding voxels that respond faces > objects. The point of a contrast is to isolate a mental process
 
 
 # Lecture 7: Category Selectivity, Controversies, and MVPA
