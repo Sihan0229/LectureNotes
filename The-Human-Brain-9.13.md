@@ -64,29 +64,44 @@ oxidase）染色显示出较高的代谢活动，以表明MT在运动感知中�
 
 # Lecture 4-5: Cognitive Neuroscience Methods
 
+Methods in Cognitive Neuroscience Methods, & the Questions they answer, applied to face perception
+
 ### Marr Computational Theory Level of Analysis （Marr计算理论分析层次）
 
 Case study: Color Vision
-1. **计算理论 (Computational Theory)**  
+- **计算理论 (Computational Theory)**  
    - **目标**：理解系统做什么，为什么做。
    - **问题**：提取什么信息？为什么？推理是否存在不适定（ill-posed）问题？
    - **色觉例子**：从光（L）中推断反射率（R），但反射率（R）是未知的，推理过程是不适定的。
 
-2. **算法/表示 (Algorithm/Representation)**  
+- **算法/表示 (Algorithm/Representation)**  
    - **目标**：理解系统如何实现任务，使用什么算法或表示。
    - **问题**：如何完成任务？使用了什么假设？怎样的计算模型？
    - **色觉例子**：如何构建算法从光（L）推断反射率（R）。
 
-3. **硬件实现 (Hardware Implementation)**  
+- **硬件实现 (Hardware Implementation)**  
    - **目标**：理解系统如何通过硬件实现计算。
    - **问题**：如何在硬件上实现这些计算？
    - **色觉例子**：大脑如何通过神经网络实现这些推理任务？
-   
-### Methods in Cognitive Neuroscience Methods, & the Questions they answer, applied to face perception
 
-#### Computational theory
-#### Behavior
-#### fMRI
+**major challenge**: huge variation across images of a single face
+
+### Behavior: Strengths and Weakness of Behavioral Methods (low-tech)
+- Good for characterizing internal representations and dissociating distinct mental phenomena.
+- But no relationship to the brain. 
+- Only the final stage output instead of each stage in whole precessing. (solution: fMRI)
+
+### Functional Magnetic Resonance Imaging (fMRI)
+- 原理：**BOLD signal**（blood oxygenation level dependent）表示与血液氧合状态相关的变化。神经活动增加时，局部的血流增加超过了氧气使用的需求，这导致局部的氧气浓度下降，脱氧血红蛋白deO2Hb（deoxygenated hemoglobin）浓度降低。氧合血红蛋白（O2Hb）和去氧血红蛋白（deO2Hb）在磁共振成像中呈现不同的信号特性。deO2Hb是顺磁性的，使得MR信号强度增加。
+- Cannot measure absolute amounts of activity/metabolism, only differences between two conditions.
+- Physiological basis of the BOLD signal is unknown
+- fMRI suggests that distinct neural tissue is engaged in face vs object recognition.
+### ERPs
+### MEG
+### Intracranial recording
+### Patients with focal brain damage
+### TMS
+### Electrical stimulation of the brain
 
 # Lecture 6: Experimental Design
 # Lecture 7: Category Selectivity, Controversies, and MVPA
