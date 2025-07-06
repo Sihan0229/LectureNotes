@@ -203,9 +203,41 @@ Multifactor Experiments main effects and interactions
 - 解码：Haxby-style correlations, Machine Learning
 - 效果对比：**Monkey Neurophysiology** 能够从神经元群体中解码出面孔的身份，而**Monkey fMRI**不能。但是MVPA方法可以用于研究大脑识别的是具体的模板（特定角度、颜色鞋子的图像）还是抽象的表示（某一物体的概念）。
 
-
-
 # Lecture 8-9: Navigation
+
+### The Fundamental Problems of Navigation
+- Where am I?
+  - Familiar/unfamiliar location
+  - geometry of current location
+- How do I get from here (A) to there (B)?
+  - Beaconing 信标
+  - a mental map
+  - routes? reorientation?
+
+### Parahippocampal Place Area (PPA)
+- a region selectively responsive to scenes
+
+**研究内容：**
+1. which of these things are driving the response of PPA?
+- 对比：Scene, Furniture, Empty Rooms，其中（Scene = Furniture + Empty Rooms）
+- spatial layout: Furniture < Empty Rooms
+
+2. Is the PPA involved in the recognition of a particular scene, or in processes specific to familiar scenes?
+- 对比MIT与Tufts学生中对MIT与Tuft场景的反应 
+- 结论：The PPA does not do anything that requires knowing the specific place 熟悉与不熟悉场景之间没有区别。
+
+**三个结论：** The PPA analyzes the shape of the local environment.
+- There is region of parahippocampal cortex that responds
+more to scenes than objects.
+- When all the objects are removed from the scenes, the
+response is unchanged.
+- The PPA responds similarly to familiar & unfamiliar scenes
+
+**问题：** 如何说明PPA是对场景有响应，而不是对直线性有响应？
+
+<img src="https://github.com/Sihan0229/LectureNotes/blob/main/image/The-Human-Brain-9.13/Main%20Effects%20vs%20Interactions.png?raw=true" width="100%">
+
+
 # Lecture 10-11: Development, Nature & Nurture
 # Lecture 13: Number
 # Lecture 15: Hearing and Speech
