@@ -187,9 +187,23 @@ Multifactor Experiments main effects and interactions
 - 通过 localizer scan 找到每个个体的特定功能性区域
 - Standard Designs: Main Effects vs Interactions
 
-<img src="https://github.com/Sihan0229/LectureNotes/blob/main/image/The-Human-Brain-9.13/Main%20Effects%20vs%20Interactions.png?raw=true" width="80%">
+<img src="https://github.com/Sihan0229/LectureNotes/blob/main/image/The-Human-Brain-9.13/Main%20Effects%20vs%20Interactions.png?raw=true" width="100%">
 
 # Lecture 7: Category Selectivity, Controversies, and MVPA
+- 问题：特定区域（如FFA）是只对某一类别有反应，对其他类别没有反应，还是只是反应的程度不一样？
+
+- 方案：对研究FFA区域对 chairs 和 cars 的反应，如果 $r(\text{Within}) > r(\text{Between})$ ，说明该区域能够区分 chairs 和 cars。
+
+### Neural Decoding with fMRI 神经解码
+- 方法：
+  - Magnetoencephalography (MEG) 
+  - Monkey Neurophysiology: Neural Population Decoding 神经群体解码，通过记录猴子大脑中的神经元的放电率来获取神经活动信息
+  - fMRI: 通过监测大脑的 BOLD 响应来获取信息。可以在大脑多个体素（voxels）之间分析信号模式：多体素模式分析（MVPA）
+
+- 解码：Haxby-style correlations, Machine Learning
+- 效果对比：**Monkey Neurophysiology** 能够从神经元群体中解码出面孔的身份，而**Monkey fMRI**不能。但是MVPA方法可以用于研究大脑识别的是具体的模板（特定角度、颜色鞋子的图像）还是抽象的表示（某一物体的概念）。
+
+
 
 # Lecture 8-9: Navigation
 # Lecture 10-11: Development, Nature & Nurture
