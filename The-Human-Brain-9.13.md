@@ -207,12 +207,15 @@ Multifactor Experiments main effects and interactions
 
 ### The Fundamental Problems of Navigation
 - Where am I?
-  - Familiar/unfamiliar location
-  - geometry of current location
+  - Familiar location (RSC)
+  - unfamiliar location (PPA & OPA)
+  - geometry of current location (PPA & OPA)
 - How do I get from here (A) to there (B)?
-  - Beaconing 信标
-  - a mental map
-  - routes? reorientation?
+  - Beaconing
+  - a mental map (Hippocampus, place cells)
+  - current heading w/ respect to that map (RSC, HD cells, OPA, PPA, etc)
+  - routes? (boundary cells)
+  - reorientation (RSC?/HD cells)
 
 ### Parahippocampal Place Area (PPA)
 - a region selectively responsive to scenes
@@ -262,8 +265,40 @@ PPA仅仅是导航系统的一部分
 - 大脑某一特定区域的神经群体是否能够区分两个不同的刺激?
 
    e.g. FFA的神经群体是否能够区分两张不同面孔？
-   
+
    通过测量大脑区域在相同和不同刺激条件下的fMRI反应，能够揭示大脑将什么视为“相同”，什么视为“不同”。
+
+### Head Direction Cells
+- 在海马旁回（subiculum）（海马体的一部分）以及其他多个大脑区域中被发现。能够反映动物头部的朝向，帮助大脑感知空间方向。
+- 头向细胞的 **放电率（spikes/s）** 与动物头部朝向（0°到360°）有关，当头部朝向特定方向时，头向细胞的放电率会显著增加，当头部朝向某个特定角度（如180°）时，细胞的放电率达到最高值。
+- 每个头向细胞对特定方向有最强的反应。多个头向细胞的集群可以共同表示从0°到360°的整个方向范围，通过多个头向细胞的协同工作，大脑能够准确地感知整个360°的方向。
+
+### Grid Cells
+- 位于内嗅皮层（Entorhinal Cortex）
+- 支持度量距离的编码，帮助动物在环境中移动时感知自己的位置。
+- 它们在路径积分（PathIntegration）或dead reckoning（推算当前位置）中尤为重要。这些细胞通过与其他细胞（如头向细胞（HDcells））共同工作，帮助动物计算出位移向量，从而推算出自己在空间中的当前位置。 
+
+**位置细胞**帮助大脑知道我们在哪里，**方向细胞**帮助大脑知道我们的方向，而**网格细胞**则帮助计算位移，并在空间中提供精确的位置信息。
+
+### Border Cells
+- 帮助大脑感知我们在环境中的位置，特别是相对于导航障碍物的位置。
+- 关注的是周围环境的形状，并且对空间的边界有特殊的反应。
+
+### Reorientation 重定方向
+
+**Geometric Module**
+- 仅使用空间布局来确定动物或婴儿在环境中的位置，忽略了颜色、气味等其他感官信息。
+- 这种信息封装（Informational Encapsulation）意味着，尽管颜色或气味信息在环境中可用，但大脑的定位系统并不会使用它们，而是专注于几何形状。
+- 主要用于判断朝向而非位置。
+
+**Place Cells**
+- 地方细胞的方向信息并不完全依赖于外部特征，而是基于动物的位置和方向。
+
+海马体（hippocampus）如何不仅用于空间定位，还涉及时间、社交关系以及思维过程的表示。
+- 空间导航：记忆和定位空间信息。
+- 时间和空间的结合：存储大范围的记忆，不仅包括空间信息，还包括时间信息。
+- 社交认知：参与社交空间的表示，帮助理解社会关系和互动。
+- 决策过程：在决策过程中不仅代表位置，还帮助动物**思考**并做出行动选择。
 
 # Lecture 10-11: Development, Nature & Nurture
 # Lecture 13: Number
