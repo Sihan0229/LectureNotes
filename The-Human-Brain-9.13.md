@@ -183,20 +183,13 @@ Multifactor Experiments main effects and interactions
 
 **9. 数据的分析方法如何确定？**
 
-# Lecture 7: Category Selectivity, Controversies, and MVPA
-### 每个受试者个体定义的 Functional Regions of Interest (fROIs)
+- 每个受试者个体定义的 Functional Regions of Interest (fROIs)
 - 通过 localizer scan 找到每个个体的特定功能性区域
+- Standard Designs: Main Effects vs Interactions
 
-### Standard Designs
+<img src="https://github.com/Sihan0229/LectureNotes/blob/main/image/The-Human-Brain-9.13/Main%20Effects%20vs%20Interactions.png?raw=true" width="80%">
 
-Main Effects vs Interactions
-
-||face|objects|
-|--|--|--|
-|**Attended**|||
-|**Un-Attended**|||
-
-
+# Lecture 7: Category Selectivity, Controversies, and MVPA
 
 # Lecture 8-9: Navigation
 # Lecture 10-11: Development, Nature & Nurture
