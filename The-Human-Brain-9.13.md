@@ -189,6 +189,15 @@ Multifactor Experiments main effects and interactions
 
 ### Standard Designs
 
+Main Effects vs Interactions
+
+||face|objects|
+|--|--|--|
+|**Attended**|||
+|**Un-Attended**|||
+
+
+
 # Lecture 8-9: Navigation
 # Lecture 10-11: Development, Nature & Nurture
 # Lecture 13: Number
