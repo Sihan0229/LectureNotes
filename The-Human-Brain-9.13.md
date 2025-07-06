@@ -144,11 +144,47 @@ fMRI时间分辨率较慢，因此引入了EEG和ERPs来解决**问题4：How fa
 Multifactor Experiments main effects and interactions
 - **Hypothesis**: The key idea you are testing in the experiment.
 - **Prediction**: The precise finding in your data that should be found if the hypothesis is true.
-- **Confound**: A difference between your conditions other than the one you are trying to manipulate, that hence provides an alternative account of your data.
+- **Confound 混淆变量**: A difference between your conditions other than the one you are trying to manipulate, that hence provides an alternative account of your data.
 - **Contrast**: an activation is generally based on a contrast of two conditions, e.g. finding voxels that respond faces > objects. The point of a contrast is to isolate a mental process
 
+### 对比条件：Minimal Pairs
+- fMRI只能显示差异而不能显示 absolute amounts，研究某个 memtal function 需要针对其进行 turn on/off 设计对比试验
+- Minimal Pairs differ only in that single mental process and not in anything else.
+### 对比条件：Confounds
+- If all snake pix have grassy backgrounds, and all nonsnake conditions do not. This thing I thought was a snake-selective brain region is really just responding to grass.
+### Decisions toward an Actual Experiment 实验决策
+
+#### 1. 实验中要运行的具体条件是什么？
+- 设计“**最小对照（Minimal Pairs）**”，只改变一个心理过程。
+- 这是实验设计的核心，避免在实验条件中引入多个变量。
+
+#### 2. 受试者在扫描仪中需要完成什么任务？
+- 对于视觉实验，通常使用**被动观看（Passive Viewing）**或**1-back任务**。
+- 不要为不同的刺激设计不同的任务，以避免引入**混淆变量（confounds）**。
+
+#### 3. 是否有“基线（Baseline）”条件？为什么？
+- 对于视觉实验，常见的基线条件是让受试者盯着一个十字架（没有眼动）。
+- 基线条件有助于提供一个**最小视觉处理（minimal visual processing）**的参考，帮助测量大脑对刺激的选择性反应。
+- 没有完美的基线，但需要有基线来测量**选择性反应**。
+
+#### 4. 实验中是否会分配不同条件给不同的受试者，还是让每个受试者完成所有条件？
+- 尽量在同一受试者内进行所有条件的测试，以避免受试者差异影响实验结果。
+- 只有在某些情况下无法实现完全的受试者内设计时，才考虑使用其他设计。
+
+#### 5. 设置多少个“跑次（runs）”，每个跑次中会包含哪些条件？
+- 如果可能，尽量在每个跑次中包含所有条件，以减少跑次间的差异对实验结果的影响。
+
+#### 6. 如果每个跑次包含多个条件，是集中（clumped）呈现，还是交替（interleaved）呈现？
+
+#### 7. 刺激的呈现速率是多少？
+
+#### 8. 刺激/条件的顺序如何安排？
+- 避免引入习惯化或疲劳效应。
+
+#### 9. 数据的分析方法如何确定？
 
 # Lecture 7: Category Selectivity, Controversies, and MVPA
+
 # Lecture 8-9: Navigation
 # Lecture 10-11: Development, Nature & Nurture
 # Lecture 13: Number
