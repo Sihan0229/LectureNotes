@@ -235,8 +235,35 @@ response is unchanged.
 
 **问题：** 如何说明PPA是对场景有响应，而不是对直线性有响应？
 
-<img src="https://github.com/Sihan0229/LectureNotes/blob/main/image/The-Human-Brain-9.13/Main%20Effects%20vs%20Interactions.png?raw=true" width="100%">
+<img src="https://github.com/Sihan0229/LectureNotes/blob/main/image/The-Human-Brain-9.13/PPA%20rectilinearity.png?raw=true" width="100%">
 
+Electrical stimulation of the PPA (place-selectivity
+verified by fMRI and iEEG), induced a topographic visual
+hallucination: The patient described seeing indoor and outdoor scenes
+that included views of the neighborhood he lives in. By
+contrast, stimulating the more lateral aspect of the basal
+temporal lobe caused distortion of the patient’s
+perception of faces.
+
+PPA仅仅是导航系统的一部分
+### PPA, Restrospelenial Cortex(RSC), TOS/OPA, Hippocampus
+- **PPA（后颞皮层）**：主要负责处理与场景相关的信息，特别是感知和识别场景。
+
+- **RSC（回顾皮层）**：RSC显示出较强的熟悉度效应，在处理熟悉的场景时表现得尤为突出。RSC损伤的患者能够识别建筑物和景观，从而知道自己身处何地，但无法从已知地标获取其他地方的方向信息。
+
+- **TOS（大脑顶叶视觉皮层，又称OPA，场景选择性区域）**：TOS/OPA主要与场景感知相关，但不涉及面孔感知。当OPA区域被干扰时，会影响场景的辨别能力，但不会影响面孔的辨别能力。
+
+- **海马体**：在认知地图（cognitive map）的建立中起到核心作用，帮助我们在空间中导航，记住并定位我们所在的环境。
+
+**PPA & OPA/TOS** 两个区域主要帮助感知和理解场景的空间布局，尤其是与场景的空间结构相关的信息。
+**RSC** 主要帮助我们识别熟悉的地方，并且根据认知地图确定自己的位置和方向。
+**海马体**负责处理和存储我们的认知地图，使我们能够在环境中定位和导航
+### Event-Related fMRI Adaptation 事件相关fMRI适应
+- 大脑某一特定区域的神经群体是否能够区分两个不同的刺激?
+
+   e.g. FFA的神经群体是否能够区分两张不同面孔？
+   
+   通过测量大脑区域在相同和不同刺激条件下的fMRI反应，能够揭示大脑将什么视为“相同”，什么视为“不同”。
 
 # Lecture 10-11: Development, Nature & Nurture
 # Lecture 13: Number
