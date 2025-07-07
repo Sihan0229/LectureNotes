@@ -1,4 +1,6 @@
-Lectures link: [The-Human-Brain-9.13](https://www.bilibili.com/video/BV1te4y1t7yL/?spm_id_from=333.1387.favlist.content.click&vd_source=3eea97cca726b52e31eba5c50a723cb0)
+Lecture Videos Links: [Bilibili](https://www.bilibili.com/video/BV1te4y1t7yL/?spm_id_from=333.1387.favlist.content.click&vd_source=3eea97cca726b52e31eba5c50a723cb0)/[Youtube](https://www.youtube.com/playlist?list=PLUl4u3cNGP60IKRN_pFptIBxeiMc0MCJP)
+
+Lecture Slice Link: [MIT Open Course Ware](https://ocw.mit.edu/courses/9-13-the-human-brain-spring-2019/pages/lecture-notes/)
 
 # Lecture 1: Introduction
 
