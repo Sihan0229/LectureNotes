@@ -303,6 +303,22 @@ PPA仅仅是导航系统的一部分
 - 决策过程：在决策过程中不仅代表位置，还帮助动物**思考**并做出行动选择。
 
 # Lecture 10-11: Development, Nature & Nurture
+### Basics of Brain Development
+- At birth: 
+   - Most neurons
+   - Most long-range structural connections
+
+- During first 1-2 yrs:
+   - doubles in volume
+   - Cortical thickness & surface area increase sharply
+   - Complexity of neurons and number of synapses increase greatly
+   - Myelination begins before birth, and continues rapidly in first few years, then more slowly through adolescence
+
+### Three Test Cases of behavioral and neural development 
+A. Face perception and the FFA 
+B. The navigation network and reorientation 
+C. The Visual Word Form Area
+
 # Lecture 13: Number
 # Lecture 15: Hearing and Speech
 # Lecture 16: Music
