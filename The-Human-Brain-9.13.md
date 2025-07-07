@@ -314,10 +314,22 @@ PPA仅仅是导航系统的一部分
    - Complexity of neurons and number of synapses increase greatly
    - Myelination begins before birth, and continues rapidly in first few years, then more slowly through adolescence
 
-### Three Test Cases of behavioral and neural development 
-A. Face perception and the FFA 
-B. The navigation network and reorientation 
-C. The Visual Word Form Area
+
+Three Test Cases of behavioral and neural development: 
+### Face perception and the FFA 
+- **理论 A**：先天仅具备简单的 “precursor”，只有吸引注意力的初始信号，让婴儿优先关注脸，但具体的面部识别、区分等能力需要通过后天经验逐步学习获得。
+- **理论 B**：出生时已具备接近成人的面部感知系统，有完整的面部表征结构，只需轻微 “调整”，不需要大幅学习。
+
+**实验 1：新生儿是否优先关注并检测面部？**
+
+
+
+
+
+
+### The navigation network and reorientation 
+
+### The Visual Word Form Area
 
 # Lecture 13: Number
 # Lecture 15: Hearing and Speech
