@@ -359,7 +359,6 @@ Three Test Cases of behavioral and neural development:
 但后续经验仍有影响：会出现 “感知窄化”（如对不常接触的脸逐渐失去区分能力）。
 - 意义：这说明面部感知的核心能力（如检测脸、区分个体）可能不需要 “先天接触脸的经验”，先天就有基础框架，经验的作用更像 “优化” 而非 “塑造核心功能”。这支持了 “先天提供基础，经验微调” 的逻辑，类似计算机中 “初始模型无需特定数据即可运行核心功能，训练数据仅提升精度”。
 
-
 ### The navigation network and reorientation 
 
 ### The Visual Word Form Area
