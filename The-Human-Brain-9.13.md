@@ -349,7 +349,7 @@ Three Test Cases of behavioral and neural development:
 - 实验设计：测试 6 个月、9 个月大的婴儿和成人，让他们区分 “人类面孔” 和 “猴子面孔”，通过 “偏好注视新面孔” 的时间判断识别能力。
 - 结果：6 个月大婴儿：既能区分不同人类的脸，也能区分不同猴子的脸；
 9 个月大婴儿和成人：能区分人类的脸，但无法区分猴子的脸。
-- 结论：随着成长，婴儿的面部感知能力会 “窄化”—— 只保留对 “常接触的类别”（如人类脸）的识别能力，对不常接触的（如猴子脸）则逐渐失去区分能力。这类似计算机中 “模型通过训练优化，专注于特定任务” 的过程，说明后天经验（如更多接触人类脸）会 “塑造” 感知系统，支持理论 A 中 “学习机制” 的重要性。
+- 结论：6-12个月之间会发生知觉收窄（perceptual narrowing），即对面孔的感知逐渐专门化；只保留对 “常接触的类别”（如人类脸）的识别能力，对不常接触的（如猴子脸）则逐渐失去区分能力。这类似计算机中 “模型通过训练优化，专注于特定任务” 的过程，说明后天经验（如更多接触人类脸）会 “塑造” 感知系统，支持理论 A 中 “学习机制” 的重要性。
 
 **实验 5：猴子的控制饲养实验：经验是否是面部感知的必要条件？**（Sugita et al., 2008）
 - 为验证 “先天基础” 和 “经验” 的作用，研究者通过 “控制饲养” 剥夺猴子接触 “脸” 的经验，观察其面部感知能力是否仍能发展。
@@ -359,7 +359,7 @@ Three Test Cases of behavioral and neural development:
 但后续经验仍有影响：会出现 “感知窄化”（如对不常接触的脸逐渐失去区分能力）。
 - 意义：这说明面部感知的核心能力（如检测脸、区分个体）可能不需要 “先天接触脸的经验”，先天就有基础框架，经验的作用更像 “优化” 而非 “塑造核心功能”。这支持了 “先天提供基础，经验微调” 的逻辑，类似计算机中 “初始模型无需特定数据即可运行核心功能，训练数据仅提升精度”。
 
-### Development of Specific Brain Regions
+**Development of Specific Brain Regions**
 - Spatial organization （空间结构） is adultlike very early!
 - But functional selectivities （功能选择性） are much different.
 - Pushes developmental timeline way back.
@@ -367,6 +367,20 @@ Importantly constrains role of experience &
 maturation. 大脑结构的搭建在非常早期就已经发生，
 但具体功能的形成需要进一步经历成熟和经验
 
+**Causal roles of structured experience, and biological maturation central challenge**
+- deeply confounded in normal development
+- Behavior: Early pattern vision may be important for devel of face system.
+- Controlled rearing: **Early face experience not crucial** for face recognition.
+- But fMRI: **Face experience is necessary** for development of face patches!
+
+**What if anything is Innate about Face Perception?**
+- Bias to look at faces (might be very general template).
+- Early visual discrimination abilities (might not be face specific)
+- Face patches apparently require experience 
+
+but ... How do they know to always arise right here?
+- Pre-existing selectivity?
+- Pre-existing connectivity?
 ### The navigation network and reorientation 
 
 ### The Visual Word Form Area
