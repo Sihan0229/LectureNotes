@@ -14,7 +14,7 @@ Lecture Slice Link: [MIT Open Course Ware](https://ocw.mit.edu/courses/9-13-the-
 ### Important Subcortical Bits
 **Thalamus 丘脑**
 - 感觉中继站（relay station），起信息传递作用，多数感觉信息传入皮层前经此。嗅觉（olfaction）例外，不经过丘脑。
-- 视觉中继：Lateral Geniculate Nucleus（LGN），负责视网膜（retina）到皮层视觉信息传递，从 retinal ganglion cells 接受信息，通过 optic radiations 传输到 primary visual cortex (V1)。LGN主要位于 thalamus 的 posteroventral region。 
+- 视觉中继：Lateral Geniculate Nucleus（LGN），负责视网膜（retina）到皮层视觉信息传递，从retinal ganglion cells接受信息，通过optic radiations传输到primary visual cortex (V1)。LGN主要位于thalamus的posteroventral region。 
 - 反向连接：存在大量下行连接（如 V1 到 LGN 连接远多于反向）  
 
 **Hippocampus 海马体**
@@ -366,6 +366,7 @@ Three Test Cases of behavioral and neural development:
 Importantly constrains role of experience &
 maturation. 大脑结构的搭建在非常早期就已经发生，
 但具体功能的形成需要进一步经历成熟和经验
+
 ### The navigation network and reorientation 
 
 ### The Visual Word Form Area
