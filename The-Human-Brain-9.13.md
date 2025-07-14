@@ -381,8 +381,9 @@ maturation. 大脑结构的搭建在非常早期就已经发生，
 but ... How do they know to always arise right here?
 - Pre-existing selectivity?
 - Pre-existing connectivity?
-### The navigation network and reorientation 
-
+### Structural Connectivity from Diffusion Tractography 弥散张量成像
+可以通过检测水分子在白质轴突中的受限扩散方向（Restricted Diffusion of Water in Axon Bundles），推断大脑中结构性连接（structural connectivity）。
+能很好识别大的纤维束（big fiber bundles），对较小连接的检测能力有限。是目前人类研究连接性的最好工具。
 ### The Visual Word Form Area
 
 # Lecture 13: Number
