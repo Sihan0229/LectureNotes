@@ -396,6 +396,7 @@ connectns are present at birth.
 
 - 在出生时通过手术将来自视网膜的输入引导到本应是听觉皮层（A1）的区域，如果输入决定皮层功能，那么 A1 应该变成 V1（初级视觉皮层）。
 - 结果：这个被重定向输入的听觉皮层表现出类似 V1 的功能，因此功能不是天生由位置决定的，而是由连接与经验共同塑造的。
+<img src="https://github.com/Sihan0229/LectureNotes/blob/main/image/The-Human-Brain-9.13/Rewired%20Ferrets.png?raw=true" width="100%">
 
 人类读写才发展几千年，不可能进化出先天的阅读脑区。但我们的大脑左半球有一个小区域（VWFA）对字符的 activation 高于线条图画。这说明其完全依赖于后天经验塑造。
 
