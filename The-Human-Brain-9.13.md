@@ -384,7 +384,23 @@ but ... How do they know to always arise right here?
 ### Structural Connectivity from Diffusion Tractography 弥散张量成像
 可以通过检测水分子在白质轴突中的受限扩散方向（Restricted Diffusion of Water in Axon Bundles），推断大脑中结构性连接（structural connectivity）。
 能很好识别大的纤维束（big fiber bundles），对较小连接的检测能力有限。是目前人类研究连接性的最好工具。
-### The Visual Word Form Area
+
+**Do Connectivity Fingerprints Predict Function?**
+- 对每一个体素，计算其与全脑各解剖区域的连接强度，形成 connectivity fingerprint, 以此预测该体素的功能。结果发现可以高准确率预测
+- All these regions have distinct connectivity fingerprints
+- 说明结构连接和功能密切相关
+- Recall that most long-range
+connectns are present at birth.
+### The Visual Word Form Area (VWFA)
+**Rewired Ferrets：动物模型实验**
+
+- 在出生时通过手术将来自视网膜的输入引导到本应是听觉皮层（A1）的区域，如果输入决定皮层功能，那么 A1 应该变成 V1（初级视觉皮层）。
+- 结果：这个被重定向输入的听觉皮层表现出类似 V1 的功能，因此功能不是天生由位置决定的，而是由连接与经验共同塑造的。
+
+人类读写才发展几千年，不可能进化出先天的阅读脑区。但我们的大脑左半球有一个小区域（VWFA）对字符的 activation 高于线条图画。这说明其完全依赖于后天经验塑造。
+
+**Is the location of VWFA determined by connectivity?**
+
 
 # Lecture 13: Number
 # Lecture 15: Hearing and Speech
