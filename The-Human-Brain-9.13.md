@@ -401,7 +401,35 @@ connectns are present at birth.
 人类读写才发展几千年，不可能进化出先天的阅读脑区。但我们的大脑左半球有一个小区域（VWFA）对字符的 activation 高于线条图画。这说明其完全依赖于后天经验塑造。
 
 **Is the location of VWFA determined by connectivity?**
+- yes, we can predict the location of the VWFA at age 8 from connectivity fingerprint at age 5
 
+### Reorientation & The Geometric Module
+空间表征系统是先天的吗？（Are Representations of Space Innate?）
+
+老鼠的头向细胞（HD cells） 在出生第12天出现（在睁眼前）；位置细胞（place cells）和边界细胞（border cells）紧随其后。可以推论，空间表征系统基本上是先天的。
+
+动物或婴儿在空间迷失后，会使用空间几何形状而非颜色或气味来重新定向。提出存在一个几何模块（geometric module），专门基于环境几何结构重新定位。
+
+小鸡的几何重定位实验（Controlled Rearing in Chicks）出生前在黑暗中孵化，在矩形或圆形笼中养大。
+实验藏起 mom，旋转环境，小鸡再寻找 mom。
+小鸡没有接触几何形状经验，但依然能用几何信息成功重新定位，强有力地支持了几何定向模块是先天存在的。
+
+### Controlled Rearing：如何验证系统是否先天？
+- 问题：出生时无法直接测试复杂行为，等太晚又会混入经验影响。
+- 策略：控制饲养法 (Controlled Rearing) —— 阻止相关经验，看系统是否仍然发展出来。
+
+
+| 系统   | 先天特征                        | 后天经验作用             |
+| ---- | --------------------------- | ------------------ |
+| 面孔感知 | 看向脸的偏好（可能是通用模板）             | 真正的“面孔脑区”需要视觉经验形成  |
+| VWFA | 无法天生获得（阅读历史太短）              | 由连接模式指导 + 阅读经验驱动发育 |
+| 空间系统 | HD cells 出生前即存在，几何定向能力不依赖经验 | 几乎全部是先天建构          |
+
+### 如果大脑在早期受到损伤，或输入极端不同（如先天失明），其功能组织是否仍能保持一致，还是会发生功能重组？
+- 可塑性（plasticity）随年龄变化：
+成年后语言区受损会导致永久语言障碍；
+出生几个月内受损，语言能力发展良好，但可能“迁移”到右半球（RH）；5岁后受损，右半球也无法再承担语言功能。
+- FFA在出生时就已定位，病人 Adam 出生当天双侧枕叶-枕颞皮层损伤，尽管物体识别保留，但严重面孔失认。
 
 # Lecture 13: Number
 # Lecture 15: Hearing and Speech
