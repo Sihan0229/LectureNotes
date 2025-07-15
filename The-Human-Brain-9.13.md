@@ -431,7 +431,17 @@ connectns are present at birth.
 出生几个月内受损，语言能力发展良好，但可能“迁移”到右半球（RH）；5岁后受损，右半球也无法再承担语言功能。
 - FFA在出生时就已定位，病人 Adam 出生当天双侧枕叶-枕颞皮层损伤，尽管物体识别保留，但严重面孔失认。
 
-# Lecture 13: Number
+# Lecture 13: Number: A 'Special' Domain of Mind & Brain?
+
+### Understanding “Approximate Number System” (ANS)
+
+### Brain basis of approx number: Specific regions for number/magnitude?
+
+neuropsychological patients
+fMRI understanding approximate number
+TMS
+“Number neurons
+
 # Lecture 15: Hearing and Speech
 # Lecture 16: Music
 # Lecture 18: Language
