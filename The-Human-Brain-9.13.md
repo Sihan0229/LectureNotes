@@ -437,11 +437,45 @@ connectns are present at birth.
 
 ### Brain basis of approx number: Specific regions for number/magnitude?
 
-neuropsychological patients
-fMRI understanding approximate number
-TMS
-“Number neurons
+研究两个“计算失语症”患者（acalculic）
 
+- 病人1：左顶叶损伤 → 近似估算差，减法能力更差
+- 病人2：左颞叶损伤 → 近似估算好，但乘法更差
+
+hIPS：近似数量系统的位置
+- Simon 等人发现 **顶内沟（hIPS）** 对数字处理反应明显，特异性响应“数字”任务。
+- **数字线理论（mental number line）** 反对这个观点，认为：hIPS可能并不特定于“数字”，而是处理任何“量”（magnitude）的区域，例如空间、时间、亮度等。
+- Knops et al. (2009)使用 fMRI 和机器学习分类器。训练分类器识别左 vs 右眼动，再用它能够成功预测加法 vs 减法任务。
+加法 ≈ 向右注意，减法 ≈ 向左注意，支持了数字和空间共享神经机制的假设。
+- Pinel 等人（2004）提出比较数字大小、物体尺寸或亮度的任务，大脑激活区域高度重叠 → 共用“空间编码”，
+认知机制上支持“量纲通用（general magnitude system）”的想法。
+
+- Cappelletti 等人（2007）使用 TMS 干扰左侧 IPS，结果发现：数字和点数任务被干扰，但水平/垂直判断不受影响
+
+- 数字在神经元层面的编码：
+Nieder 等人训练猴子做数字任务，在顶叶和额叶记录神经元活动。有些神经元专门对某个“数字数量”响应最大，呈钟形调谐曲线。这些数字神经元 abstractly，Over both space & time，且 Over modality
+(vis and aud)。
+
+**Summary of Approximate Number System**
+
+- 心智与大脑的近似数字系统（ANS）
+与动物、新生儿共享。
+
+- 遵循 **韦伯定律（Weber’s Law）**：区别难度随数字接近程度增加。
+
+- 对物体特征、形态、符号/非符号的抽象
+- 巨大个体差异：发育性计算障碍 developmental dyscalculia（IQ正常）
+- 儿童ANS能力可以预测以后的数学能力
+- hIPS是关键的皮质区域，不仅对于数字大小，而且对于空间/时间/亮度
+
+还未解决的问题：
+- hIPS 是数字专属？还是一般“量纲处理器”？
+- 数字神经元是否真的“特异”？还是只是对连续变量反应？
+
+Stan Dehaene的观点：
+- “大脑将数字视为一种特殊知识类型，有其特定神经机制（如 hIPS）。但对于数字与长度、空间或时间等精细区分而言，hIPS的专属性就会消失。”
+
+- 大脑不是完全均质的白板（anisotropic white paper），也不是清晰划分的模块（modular machine），而是介于两者之间的复杂结构：既有区域专化，也有交叉共享。
 # Lecture 15: Hearing and Speech
 # Lecture 16: Music
 # Lecture 18: Language
