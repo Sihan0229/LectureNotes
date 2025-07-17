@@ -476,7 +476,36 @@ Stan Dehaene的观点：
 - “大脑将数字视为一种特殊知识类型，有其特定神经机制（如 hIPS）。但对于数字与长度、空间或时间等精细区分而言，hIPS的专属性就会消失。”
 
 - 大脑不是完全均质的白板（anisotropic white paper），也不是清晰划分的模块（modular machine），而是介于两者之间的复杂结构：既有区域专化，也有交叉共享。
+
 # Lecture 15: Hearing and Speech
+
+**Cocktail Party Problem:** 
+- ear receives mixture of sources, which add linearly
+- BUT:The listener is usually interested in individual sources, which must be inferred from the mixture.
+- The problem is ill-posed
+
+**reverberation**
+- sound entering ear = sound from source (unknown) * environmental impulse response (unknown)
+
+### Speech	Perception
+- **vowels**: see harmonics (parallel horizontal bars) in human voice.
+- natural speech: note that vowels are in there but short, punctuated by lots of vertical nonharmonic sounds. (**consonants**). 辅音没有清晰的谐波结构
+- 'ba' vs 'pa': diff between VOT (Voice Onset Time), 65ms delay. “pa” 是 送气音，大约延迟 65ms。
+- sources of variation: Rate variability, Context variability, Talker variability
+- Language-Familiarity Effect (LFE)（语言熟悉度效应）
+### The auditory processing pathway
+- Primary auditory cortex has tonotopic maps (diff best frequence)
+
+**STRFs 线性时频感受野 linear spectrotemporal filtering**
+
+- Neurons in primary auditory cortex can be thought of as
+a bank of linear filters selective for specific frequency
+changes over time 将神经元视为一组线性滤波器，每个滤波器对特定时间和频率上的变化敏感。
+- 使用模型生成匹配刺激方法验证 STRF 模型的有效性：输入一个自然声音，以及一个经模型匹配合成出的声音（模型预测它们引发的神经响应应当相同）。
+结果在fMRI中，模型在初级听觉皮层附近表现很好，但在更高层（非初级区域）预测能力很差。这说明 STRF 模型能解释早期听觉处理，但无法解释高级听觉感知（比如语音或意义）。
+- 语音选择性皮层（Speech-Selective Cortex）：fMRI 显示在非初级听觉皮层有一些区域，对语音比对非语音声音反应更强烈。这些区域并不意味着是语言理解 (language-selective) 区域，而是对语音信号本身敏感。
+- ECoG脑电记录证实，不同的电极点分别响应语调（intonation）、音素（phonemes）、说话人身份（identity），而不是多个维度的混合响应，说明这些信息是正交/独立编码的（即互不干扰）
+
 # Lecture 16: Music
 # Lecture 18: Language
 # Lecture 20: Mentalizing and Theory of Mind
