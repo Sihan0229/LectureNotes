@@ -507,6 +507,15 @@ changes over time 将神经元视为一组线性滤波器，每个滤波器对�
 - ECoG脑电记录证实，不同的电极点分别响应语调（intonation）、音素（phonemes）、说话人身份（identity），而不是多个维度的混合响应，说明这些信息是正交/独立编码的（即互不干扰）
 
 # Lecture 16: Music
+
+1. Music perception does not engage cortical	regions specialized for language understanding and	vice versa.
+2. Data-driven fMRI methods discover a strikingly music-specific component in human auditory	cortex.
+3.	The music component does not respond to speech and	vice versa.
+4.	It	is	present in people	who have	had no explicit musical training. so, not like the VWFA in requirement for	explicit instruction (though,	maybe like the VWFA in requirement for	experience)
+5.	The music-selective component inferred from fMRI now validated by	direct recording from the surface of the brain.
+6. New neural	selectivity	for	vocal	music discovered.
+7. These selectivities cannot be accounted for	by	acoustic properties.
+
 # Lecture 18: Language
 # Lecture 20: Mentalizing and Theory of Mind
 # Lecture 21: Brain Networks
