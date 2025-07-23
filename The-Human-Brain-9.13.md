@@ -517,6 +517,20 @@ changes over time 将神经元视为一组线性滤波器，每个滤波器对�
 7. These selectivities cannot be accounted for	by	acoustic properties.
 
 # Lecture 18: Language
+
+### MVPA（多变量模式分析）和RSA（表征相似性分析）神经表征分析方法对比
+**MVPA（Multivoxel Pattern Analysis）**
+- 问题：某个脑区（ROI）能否区分两类刺激（比如“狗” vs “猫”）？
+- 方法：进行二分类，例如训练一个分类器区分不同类别的激活模式，或计算同类内部相关系数 r(within) 是否高于异类之间相关系数 r(between)。
+- 局限：binary，只关注能不能区分两个类别。impoverished，必须选两个类来比较。如果加入位置、大小、视角变化等因素，会更好揭示泛化能力，但仍然局限于分类。
+
+**RSA（Representational Similarity Analysis）**
+- 核心思想：关心多个刺激条件之间的表征结构（representational space）。
+- 方法：把每对条件之间的相似性（通常是神经响应模式之间的相关系数）汇总成一个相似性矩阵（RSA矩阵）。比较两个RSA矩阵的相似性，比如来自两个脑区、两个物种、甚至不同数据模态（行为评分 vs fMRI vs 神经电生理）。
+- 优点：不需要做任意二分类，避免主观选择；无需空间配准就能进行跨模态、跨被试、跨物种、跨脑区的比较。
+- 关键条件：不同数据集使用相同的刺激材料，这样才能比较矩阵。
+
+
 # Lecture 20: Mentalizing and Theory of Mind
 # Lecture 21: Brain Networks
 # Lecture 24: Attention & Awareness
