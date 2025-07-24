@@ -508,13 +508,13 @@ changes over time 将神经元视为一组线性滤波器，每个滤波器对�
 
 # Lecture 16: Music
 
-1. Music perception does not engage cortical	regions specialized for language understanding and	vice versa.
-2. Data-driven fMRI methods discover a strikingly music-specific component in human auditory	cortex.
-3.	The music component does not respond to speech and	vice versa.
-4.	It	is	present in people	who have	had no explicit musical training. so, not like the VWFA in requirement for	explicit instruction (though,	maybe like the VWFA in requirement for	experience)
-5.	The music-selective component inferred from fMRI now validated by	direct recording from the surface of the brain.
-6. New neural	selectivity	for	vocal	music discovered.
-7. These selectivities cannot be accounted for	by	acoustic properties.
+- Music perception does not engage cortical	regions specialized for language understanding and	vice versa.
+- Data-driven fMRI methods discover a strikingly music-specific component in human auditory	cortex.
+- The music component does not respond to speech and	vice versa.
+- It is present in people who have had no explicit musical training. so not like the VWFA in requirement for explicit instruction (though, maybe like the VWFA in requirement for	experience)
+- The music-selective component inferred from fMRI now validated by direct recording from the surface of the brain.
+- New neural selectivity for vocal	music discovered.
+- These selectivities cannot be accounted for by acoustic properties.
 
 # Lecture 18: Language
 
@@ -530,7 +530,42 @@ changes over time 将神经元视为一组线性滤波器，每个滤波器对�
 - 优点：不需要做任意二分类，避免主观选择；无需空间配准就能进行跨模态、跨被试、跨物种、跨脑区的比较。
 - 关键条件：不同数据集使用相同的刺激材料，这样才能比较矩阵。
 
+### Is language distinct from the rest of thought?
+语言和思维是否密不可分？Evidence from brain disorders:
+- 重度失语症患者（Global Aphasics）：在Cause-effect reasoning, reorientation, Arithmetic, Algebra, Logic, Theory of Mind等非语言任务中表现正常甚至优异。说明语言不是思维所必须的机制。
+- 完全没有语言的人是否还能发展复杂认知？严重听力障碍儿童若在早期缺乏语言暴露，日后对 Theory of Mind 可能受限。说明即使语言不是必须的，它可以影响认知。
 
+Functional Localization 功能定位
+- sentences vs non-words 识别哪些大脑区域在处理语言时特别活跃
+- 反复验证：是否可靠？
+是否能跨任务和呈现方式进行推广？
+是否能跨语言推广？
+是否能够适应不同材料？（如：听力 vs 阅读）
+- 在每个参与者的大脑中定位响应 sentences > non-words 的区域，在新的任务条件下验证这些区域的反应。
+- This is different from traditional “group analyses”, where: 
+   - Regions are defined anatomically, not functionally 
+   - Might fail to detect neural activity
+   - Might fail to distinguish between different functional regions
+
+患者研究常常显示语言与思维其他部分是分离的（即语言损伤不必然影响思维），但是fMRI研究却发现语言区域与许多其他认知功能区域存在重叠。
+- Hypothesis: If you study individual brains, and localize candidate language regions individually in each subject, the story might be different
+
+### Does the language system itself have distinct components that do different things?
+- 目前的研究未发现语言区域有明确的分工，所有的语言区域都参与语法和语义的处理。 
 # Lecture 20: Mentalizing and Theory of Mind
+
+### False Belief Paradigm（错误信念范式，FB）
+- Sally-Anne task：Sally把球放进篮子里离开了，Anne把球移到盒子里。孩子被问：“Sally 回来后会去哪儿找球？”
+- 3岁儿童常常回答“盒子”，5岁儿童通常能正确理解 Sally 的“错误信念”，回答“篮子”。
+- 自闭症儿童（ASD）：许多孩子通过FB问题得更晚，甚至永远不能通过。
+- Attributing thoughts
+### False Photo Stories（错误照片任务，FP）
+- FB的对照任务
+- 照片拍下相机拍下Sally把球放进篮子里，随后Anne把球移到盒子里。问孩子：照片中球在篮子里还是盒子里？
+- 许多自闭症孩子能通过这个任务。
+
+### 使用fMRI研究FB与FP
+- fMRI显示大脑对理解FB的反应显著强于对FP的反应。
+
 # Lecture 21: Brain Networks
 # Lecture 24: Attention & Awareness
