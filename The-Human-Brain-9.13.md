@@ -566,6 +566,14 @@ Functional Localization 功能定位
 
 ### 使用fMRI研究FB与FP
 - fMRI显示大脑对理解FB的反应显著强于对FP的反应。
+- **RTPJ（右颞顶联合区）** 能区分FB和FP，Extern, Visceral, Thoughts. Very selective for thinking very selective for thinking
+- **MPFC（前额叶内侧皮层）** no difference between conditions, sig.interaction with RTPJ
+
+### Moral Reasoning （道德推理）与 Theory of Mind（理论心智, ToM）的关系
+- 意外伤害 vs 故意伤害
+- **NT** people agree that accidental harm is more morally permissible than intentional harm. But **ASDs** Less forgiveness for accidental harm.
+- 在**正常人群（NTs）**中，对意外伤害的宽恕与rTPJ的激活密切相关，TMS刺激rTPJ后，参与者对于故意伤害的宽容度增加
+- rTPJ在理解行为意图和分辨意图与非意图的伤害之间具有关键作用，且这一能力在ASD中被破坏。
 
 # Lecture 21: Brain Networks
 # Lecture 24: Attention & Awareness
