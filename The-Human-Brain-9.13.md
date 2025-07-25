@@ -507,13 +507,14 @@ changes over time 将神经元视为一组线性滤波器，每个滤波器对�
 - ECoG脑电记录证实，不同的电极点分别响应语调（intonation）、音素（phonemes）、说话人身份（identity），而不是多个维度的混合响应，说明这些信息是正交/独立编码的（即互不干扰）
 
 # Lecture 16: Music
-
-- Music perception does not engage cortical	regions specialized for language understanding and	vice versa.
-- Data-driven fMRI methods discover a strikingly music-specific component in human auditory	cortex.
-- The music component does not respond to speech and	vice versa.
+### Music and Speech
+- Music perception does not engage cortical regions specialized for language understanding and vice versa.
+- Data-driven fMRI methods discover a strikingly music-specific component in human auditory cortex.
+- The music component does not respond to speech and vice versa.
+### Cortical regions and music training
 - It is present in people who have had no explicit musical training. so not like the VWFA in requirement for explicit instruction (though, maybe like the VWFA in requirement for	experience)
 - The music-selective component inferred from fMRI now validated by direct recording from the surface of the brain.
-- New neural selectivity for vocal	music discovered.
+- New neural selectivity for vocal music discovered.
 - These selectivities cannot be accounted for by acoustic properties.
 
 # Lecture 18: Language
@@ -576,4 +577,21 @@ Functional Localization 功能定位
 - rTPJ在理解行为意图和分辨意图与非意图的伤害之间具有关键作用，且这一能力在ASD中被破坏。
 
 # Lecture 21: Brain Networks
+### Why Should we Care about White Matter?
+- **Cortex（grey matter）**：是大脑的外层，包含细胞体和突触连接，是信息处理的中心。
+- **white matter**：位于皮层下方，由 **有髓轴突（myelinated axons）** 组成，像“电缆”一样负责脑区之间的信息传递。人类脑中白质约占45%，Myelinated fibers from one human brain, laid out end to end, circle the globe > 3x
+- To understand each functional ROI, we need to know its inputs and outputs. The **connections of each region** are a core part of its identity/distinctiveness part of the definition of a cortical area  每个脑区的连接模式是一种“指纹”，以跨物种识别脑区之间的同源性（homology），有助于比较人类与动物的脑功能、评估动物模型的相关性、理解大脑演化，脑区连接可能参与脑区发育，白质连接变化可能介导学习与可塑性。
+- 白质损伤与多种临床疾病、衰老相关 Devel disorders like dyslexia, autism, devel prosopagnosia, amusia, etc. 
+- 白质连接限制了大脑线路设计，神经元倾向于与 nearby 连接，从而形成**脑图谱（cortical maps）**，这是大脑结构和功能紧密结合的体现。
+
+研究 connectivity of these Regions 
+- 非人灵长类动物（如恒河猴）：追踪染料（tracer studies）
+- 人类：解剖学研究中可以直接观察白质纤维，但前提是要人死亡之后才能进行。
+
+| 方法                                     | 说明                   |
+| -------------------------------------- | -------------------- |
+| **尸检解剖（Gross dissection）**             | 精度高，但只能死后使用          |
+| **扩散张量成像（Diffusion MRI tractography）** | 非侵入、可在活体中做，但间接       |
+| **静息态功能MRI（Resting-state fMRI）**       | 推断功能性连接，但非结构连接，推理性较强 |
+
 # Lecture 24: Attention & Awareness
