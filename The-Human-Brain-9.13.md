@@ -624,3 +624,19 @@ Not just Brain Regions, but Brain Networks
 进一步加入 Theory of Mind (ToM) 网络（心智理论网络，即与理解他人心理状态有关的脑区）发现ToM 与语言网络之间有轻度相关，ToM 与 MD 网络之间没有相关。说明这三个网络基本上是功能和连接上都独立的，各司其职。
 
 # Lecture 24: Attention & Awareness
+
+### The crux of Attention: capacity limits and selection 容量限制与选择机制
+- 容量限制（Capacity limits）：我们大脑一次只能处理有限的信息。
+- 选择性（Selectivity）：由于容量有限，会主动选择哪些信息要处理，哪些忽略。
+
+显性 vs. 隐性注意（Overt vs. Covert）：
+- 显性（Overt）：通过眼动将注意力聚焦于某处。
+- 隐性（Covert）：不用眼动。
+
+外源性 vs. 内源性注意（Exogenous vs. Endogenous）：
+- 外源性（刺激驱动，自动）：突发刺激吸引注意（如网页弹窗、爆炸声）→ 下行路径（Bottom-up）
+- 内源性（自愿控制）：我们有意识地决定将注意力集中到某物上（如认真阅读时不受周围干扰）→ 上行路径（Top-down）
+
+Spatial attention (previous example) versus feature-based attention
+### Brain Mechanisms of Attention 注意力的脑机制
+### Neural correlates of awareness 意识的神经相关性
