@@ -639,4 +639,24 @@ Not just Brain Regions, but Brain Networks
 
 Spatial attention (previous example) versus feature-based attention
 ### Brain Mechanisms of Attention 注意力的脑机制
+
+注意力不是只影响某一个区域，而是调节多个脑区的活动水平，包括LGN（外侧膝状体）、V1（初级视觉皮层）、FFA（梭状面部区）、MT（运动区域）、A1（听觉皮层）等。注意力的来源是**前额叶与顶叶（frontal and parietal lobes）**，形成所谓的 **前顶叶注意网络（Fronto-Parietal Attention Network）** 也叫做 **Multiple Demand System（多任务需求系统）**，是极其通用的系统。
+
+在刺激出现前，大脑中与空间位置对应的区域（例如V1/V2）已经表现出轻微活动。这说明注意力可以“预激活”相关脑区，为即将到来的信息做准备。
+
+注意力调制（Attentional Modulation）：屏幕上的图片不变，但要求参与者注意不同方面。当注意“脸”时，FFA 活动显著增强；注意“房子”时，PPA（场所区域）活动增强；注意“颜色”时，颜色处理相关脑区增强。刺激完全相同，脑区反应却因注意力而改变。
+
+The “Fronto-Parietal Attention Network”： 大脑中的“调度中心”。
+顶叶皮层（如IPL、SPL）+ 前额叶皮层（如FEF、DLPFC），在 **注意力切换（shifting）** 和 **高认知负荷任务（working memory、推理等）** 中活跃。
+
+病例支持：Balint’s Syndrome，当前顶叶网络双侧受损时，会出现注意力障碍：只能看到一个物体（Attentional tunnel vision），不能自主移动眼睛，视觉功能（清晰度、深度、运动感知）本身正常。这进一步证明：顶叶区域在注意力调控中起关键作用
+
 ### Neural correlates of awareness 意识的神经相关性
+
+问题：意识（awareness）是否等同于知觉（perception）？
+
+**双眼竞争（Binocular Rivalry）**：给两只眼睛输入不同图像（面孔和房子）。视觉输入（知觉）是始终同时呈现脸和房子，而意识则一会儿“看见”脸，一会儿“看见”房子。FFA（面孔处理区）的活动在主观看到“脸”时升高，PPA（房屋处理区） 的活动在主观看到“房子”时升高。FFA和PPA的反应反映的不是到达视网膜上的刺激，而是被试的意识状态。
+
+
+
+**注意力眨眼（Attentional Blink）**：在快速连续刺激中检测目标，检测完第一个目标后的一小段时间里（~500ms），往往会漏掉第二个目标。当被试没有报告看到T2场景时，相关脑区的激活水平也显著较低，但并非为0，说明可能进行了某种程度的无意识加工。
