@@ -594,4 +594,33 @@ Functional Localization 功能定位
 | **扩散张量成像（Diffusion MRI tractography）** | 非侵入、可在活体中做，但间接       |
 | **静息态功能MRI（Resting-state fMRI）**       | 推断功能性连接，但非结构连接，推理性较强 |
 
+### 扩散张量成像（Diffusion MRI tractography）
+基本原理：**水分子在有髓轴突内扩散受限（restricted diffusion）**，而在无结构的环境中扩散自由。因此Diffusion MRI可以在大脑的每一个位置测量水分子扩散的主方向，从而推断出轴突纤维的走向，**重建大脑中的主要纤维束（fiber bundles）**，尤其是大路径（tracts）——比如视神经、胼胝体等，可靠识别18条主要纤维通路。
+
+**各向同性（isotropic）扩散**指水分子在所有方向扩散程度相同（如在脑脊液中）。**各向异性（anisotropic）扩散**指水分子在某些方向上更容易扩散（如在神经纤维内沿着轴突方向）。这种方向性可以被量化为**FA值（fractional anisotropy）**，用来评估某条纤维的结构完整性，是研究老化、疾病、学习等群体差异的常用指标。
+
+举例：阅读障碍儿童的弓状束（Arcuate Fasciculus）FA值显著低于正常儿童。这说明弥散成像可以检测到潜在的结构差异，但FA 只是一个相关性指标，非因果；生物学含义尚不明确；且非常容易受到伪影影响（例如头动引起的伪影）。
+
+除了FA，我们更想知道：某一区域与哪些其他脑区连接？
+
+弥散轨迹追踪技术（Diffusion Tractography）：基于diffusion MRI重建纤维束的轨迹，可以从一个皮层区域（如FFA）出发，追踪它连接到哪些区域。但从灰质到白质（或反向）处的 entrance and exit ramps on and off the “highways” (tracts) 最容易出错；交叉纤维 vs 贴近纤维（crossing vs kissing） 无法区分。
+
+总结：扩散张量成像能够检测主要白质通路、估计FA等指标用于群体比较（尽管含义复杂）、可用于构建大脑区域的连接“指纹”，进而预测其功能。但不能精准重建某个区域的真实结构连接 ，容易受限于技术（伪影、解析度、交叉纤维等问题）。
+
+### 静息态功能MRI（Resting-state fMRI）
+基本原理：即使人在休息（静息）时，大脑也不是完全静止的。某些遥远的大脑区域的 fMRI 时间信号曲线会高度同步（相关）。这种“同步性”可以用于推测这些区域之间可能的功能网络连接。静息态相关性不等于结构连接，也可能是由共同输入或其他机制造成的。但它仍提供重要的“网络结构”信息。
+
+生成 rsfMRI 网络图：选择一个“种子”区域（seed region），比如左侧运动皮层，提取该区域的 BOLD 时间序列，与全脑其他区域进行相关性分析。得到一个“相关性图谱”，显示哪些区域与 seed 同步活动。这些同步活动区域通常被认为是属于同一个网络（network）。
+
+Default Mode Network（DMN）默认网络：默认网络是最早通过静息态 fMRI 被识别的功能网络之一，休息时激活，做任务时反而抑制。
+
+Multiple Demand (MD) Network 多需求网络:在各种需要注意力/认知控制的任务中活跃，与流体智力相关：MD 网络的灰质体积越大，流体智力分数越高。The opposite of all the regions we have studied so far:
+scandalously domain-general
+
+Multiple Resting State Networks (RSNs)：从已知的功能区域（fROIs）出发，观察它们之间的静息连接。用功能任务识别每位受试者的大脑中的语言区、MD 区等，在静息状态下提取这些区域的 fMRI 时间曲线，分析不同区域之间的相关性矩阵。发现同一系统内部的区域高度相关（例如语言区内部）。不同系统之间的区域几乎没有相关性（如语言和 MD 网络之间）。
+
+Not just Brain Regions, but Brain Networks
+
+进一步加入 Theory of Mind (ToM) 网络（心智理论网络，即与理解他人心理状态有关的脑区）发现ToM 与语言网络之间有轻度相关，ToM 与 MD 网络之间没有相关。说明这三个网络基本上是功能和连接上都独立的，各司其职。
+
 # Lecture 24: Attention & Awareness
