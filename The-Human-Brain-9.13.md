@@ -189,7 +189,7 @@ Multifactor Experiments main effects and interactions
 - 通过 localizer scan 找到每个个体的特定功能性区域
 - Standard Designs: Main Effects vs Interactions
 
-<img src="https://github.com/Sihan0229/LectureNotes/blob/main/image/The-Human-Brain-9.13/Main%20Effects%20vs%20Interactions.png?raw=true" width="100%">
+<img src="https://github.com/Sihan0229/LectureNotes/blob/main/image/The-Human-Brain-9.13/Main%20Effects%20vs%20Interactions.png?raw=true" width="60%">
 
 # Lecture 7: Category Selectivity, Controversies, and MVPA
 - 问题：特定区域（如FFA）是只对某一类别有反应，对其他类别没有反应，还是只是反应的程度不一样？
@@ -240,7 +240,7 @@ response is unchanged.
 
 **问题：** 如何说明PPA是对场景有响应，而不是对直线性有响应？
 
-<img src="https://github.com/Sihan0229/LectureNotes/blob/main/image/The-Human-Brain-9.13/PPA%20rectilinearity.png?raw=true" width="100%">
+<img src="https://github.com/Sihan0229/LectureNotes/blob/main/image/The-Human-Brain-9.13/PPA%20rectilinearity.png?raw=true" width="60%">
 
 Electrical stimulation of the PPA (place-selectivity
 verified by fMRI and iEEG), induced a topographic visual
@@ -396,7 +396,7 @@ connectns are present at birth.
 
 - 在出生时通过手术将来自视网膜的输入引导到本应是听觉皮层（A1）的区域，如果输入决定皮层功能，那么 A1 应该变成 V1（初级视觉皮层）。
 - 结果：这个被重定向输入的听觉皮层表现出类似 V1 的功能，因此功能不是天生由位置决定的，而是由连接与经验共同塑造的。
-<img src="https://github.com/Sihan0229/LectureNotes/blob/main/image/The-Human-Brain-9.13/Rewired%20Ferrets.png?raw=true" width="100%">
+<img src="https://github.com/Sihan0229/LectureNotes/blob/main/image/The-Human-Brain-9.13/Rewired%20Ferrets.png?raw=true" width="60%">
 
 人类读写才发展几千年，不可能进化出先天的阅读脑区。但我们的大脑左半球有一个小区域（VWFA）对字符的 activation 高于线条图画。这说明其完全依赖于后天经验塑造。
 
